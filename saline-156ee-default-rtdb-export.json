@@ -1,0 +1,134 @@
+{
+  "history": {
+    "1702482103000": {
+      "alart": true,
+      "bottle-gram": 200,
+      "bottle-level": 20,
+      "flow-rate": 30,
+      "flow-usage": 30,
+      "timestamp": 1702482103000
+    },
+    "1702482104000": {
+      "alart": false,
+      "bottle-gram": 200,
+      "bottle-level": 20,
+      "flow-rate": 30,
+      "flow-usage": 30,
+      "timestamp": 1702482104000
+    },
+    "1708171661000": {
+      "alart": false,
+      "bottle-gram": 200,
+      "bottle-level": 20,
+      "flow-rate": 30,
+      "flow-usage": 30,
+      "timestamp": 1708171661000
+    },
+    "1711710421000": {
+      "alart": false,
+      "bottle-gram": 1,
+      "bottle-level": 0,
+      "flow-rate": 0,
+      "flow-usage": 13,
+      "timestamp": 1711710421
+    },
+    "1711710482000": {
+      "alart": true,
+      "bottle-gram": 26,
+      "bottle-level": 5,
+      "flow-rate": 0,
+      "flow-usage": 305,
+      "timestamp": 1711710482
+    },
+    "1711710514000": {
+      "alart": true,
+      "bottle-gram": 29,
+      "bottle-level": 5,
+      "flow-rate": 0,
+      "flow-usage": 305,
+      "timestamp": 1711710514
+    },
+    "1711711345000": {
+      "alart": false,
+      "bottle-gram": 0,
+      "bottle-level": 0,
+      "flow-rate": 0,
+      "flow-usage": 0,
+      "timestamp": 1711711345
+    },
+    "1711711414000": {
+      "alart": false,
+      "bottle-gram": 6,
+      "bottle-level": 1,
+      "flow-rate": 6,
+      "flow-usage": 462,
+      "timestamp": 1711711414
+    },
+    "1711711423000": {
+      "alart": true,
+      "bottle-gram": 8,
+      "bottle-level": 1,
+      "flow-rate": 14,
+      "flow-usage": 1093,
+      "timestamp": 1711711423
+    },
+    "1711711450000": {
+      "alart": true,
+      "bottle-gram": -34,
+      "bottle-level": -6,
+      "flow-rate": 0,
+      "flow-usage": 1199,
+      "timestamp": 1711711450
+    },
+    "1711711483000": {
+      "alart": true,
+      "bottle-gram": -30,
+      "bottle-level": -6,
+      "flow-rate": 0,
+      "flow-usage": 1199,
+      "timestamp": 1711711483
+    },
+    "1711711613000": {
+      "alart": true,
+      "bottle-gram": -22,
+      "bottle-level": -4,
+      "flow-rate": 0,
+      "flow-usage": 1199,
+      "timestamp": 1711711613
+    },
+    "1711711830000": {
+      "alart": false,
+      "bottle-gram": 8,
+      "bottle-level": 1,
+      "flow-rate": 0,
+      "flow-usage": 0,
+      "timestamp": 1711711830
+    },
+    "1711711881000": {
+      "alart": false,
+      "bottle-gram": 324,
+      "bottle-level": 64,
+      "flow-rate": 0,
+      "flow-usage": 0,
+      "timestamp": 1711711881
+    }
+  },
+  "live_data": {
+    "alart": true,
+    "bottle-gram": 348,
+    "bottle-level": 70,
+    "flow-rate": 0,
+    "flow-usage": 0
+  },
+  "notification": {
+    "istrue": false,
+    "message": "Bottle Level Low"
+  },
+  "users": {
+    "XyRoynyHp1Sfl2X9eqAY4Kj7HP22": {
+      "email": "user@gmail.com",
+      "name": "User",
+      "type": 2
+    }
+  }
+}
